@@ -4,4 +4,4 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 
-![snake gif](https://github.com/Kim-Chheu/Kim-Chheu/blob/output/github-custom-snake.svg)
+![snake gif](https://github.com/Kim-Chheu/Kim-Chheu/blob/output/ocean.gif)
